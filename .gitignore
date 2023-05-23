@@ -5,4 +5,4 @@ __pycache__/
 *.pyc
 # Ignore all build directories
 build/
-apikey.ini
+*.ini
